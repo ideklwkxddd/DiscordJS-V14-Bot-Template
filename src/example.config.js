@@ -16,7 +16,7 @@ const config = {
         }
     },
     users: {
-        ownerId: 'Your account ID', // The bot owner ID, which is you.
+        ownerId: '1117756512136335370', // The bot owner ID, which is you.
         developers: ['Your account ID', 'Another account ID'] // The bot developers, remember to include your account ID with the other account IDs.
     },
     messages: { // Messages configuration for application commands and message commands handler.
